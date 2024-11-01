@@ -1,14 +1,26 @@
-### Joshua Dykstra CTS Assignment Index Page
-[Index Page Technical Documentation](indextechdoc.md)
+# Activity 1
 
-[Topic 1 Part 1](test.html)
+- Author:  Joshua Dykstra
+- Date:  31-OCT-2024
 
-[Topic 1 Part 1 Markdown Technical Documentation](test_testdoc.md)
+- This is activity 1 which covers... 
 
-[Topic 1 Part 2](part2.html)
+## Part 1
 
-[Topic 1 Part 2 Markdown Technical Documentation](page2testdoc.md)
+- This is a screenshot of the HTML Hello world! page
 
-[Topic 1 CST-Milestone-Project Guide](example.html)
+![Hello world!](./syllabus.png)
 
-[Topic 1 CST-Milestone-Project Guide Markdown Technical Documentation](exampletestdoc.md)
+- This is the code test.html
+
+[Topic 1 Part 1](./part1/test.html)
+
+## Part 2
+
+- This is a screenshot of the syllabus page
+
+! [Syllabus](./syllabus.png)
+
+## Conclusion
+
+- 
